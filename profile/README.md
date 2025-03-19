@@ -4,7 +4,7 @@ Welcome to MoniKode, the one-stop shop for innovative and efficient mobile app d
 
 ## About Me 🧑‍💻
 
-MoniKode Mobile Solutions is founded by a passionate mobile developer with a knack for creating intuitive and responsive applications. With a primary focus on Flutter development, I also have expertise in iOS and Kotlin, ensuring a comprehensive approach to mobile app creation.
+MoniKode is founded by a passionate mobile developer with a knack for creating intuitive and responsive applications. With a primary focus on Flutter development, I also have expertise in iOS and Kotlin, ensuring a comprehensive approach to mobile app creation.
 
 Visit my website: [MoniKode Mobile Solutions](https://monikode-mobile-solutions.github.io/MoniKodeMobileSolutions.github.io/)
 
