@@ -1,6 +1,6 @@
-# MoniKode Mobile Solutions 🚀
+# MoniKode 🚀
 
-Welcome to MoniKode Mobile Solutions, the one-stop shop for innovative and efficient mobile app development. As an autodidact, I specialize in crafting high-quality Flutter applications that provide seamless user experiences across multiple platforms. 📱💻
+Welcome to MoniKode, the one-stop shop for innovative and efficient mobile app development. As an autodidact, I specialize in crafting high-quality Flutter applications that provide seamless user experiences across multiple platforms. 📱💻
 
 ## About Me 🧑‍💻
 
