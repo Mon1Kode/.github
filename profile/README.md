@@ -16,4 +16,4 @@ Visit my website: [MoniKode Mobile Solutions](https://monikode-mobile-solutions.
 
 ## Get in Touch 📬
 
-Ready to bring your mobile app idea to life? Contact me to discuss your project and see how MoniKode Mobile Solutions can make it a reality. 💡🤝
+Ready to bring your mobile app idea to life? Contact me to discuss your project and see how MoniKode can make it a reality. 💡🤝
