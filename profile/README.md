@@ -1,4 +1,4 @@
-# 🚀 Monikode Portfolio
+# 🚀 Victor Delamonica
 
 > Personal portfolio site for showcasing mobile projects, built with **Nuxt 3 + TailwindCSS** and hosted on **GitHub Pages**.
 
