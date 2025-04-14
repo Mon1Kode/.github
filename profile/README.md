@@ -1,19 +1,31 @@
-# MoniKode 🚀
+# 🚀 Monikode Portfolio
 
-Welcome to MoniKode, the one-stop shop for innovative and efficient mobile app development. As an autodidact, I specialize in crafting high-quality Flutter applications that provide seamless user experiences across multiple platforms. 📱💻
+> Personal portfolio site for showcasing mobile projects, built with **Nuxt 3 + TailwindCSS** and hosted on **GitHub Pages**.
 
-## About Me 🧑‍💻
+🔗 **Live Site:** [www.monikode.com](https://www.monikode.com)
 
-MoniKode is founded by a passionate mobile developer with a knack for creating intuitive and responsive applications. With a primary focus on Flutter development, I also have expertise in iOS and Kotlin, ensuring a comprehensive approach to mobile app creation.
+---
 
-Visit my website: [MoniKode](https://monikode-mobile-solutions.github.io/MoniKodeMobileSolutions.github.io/)
+## 🧑‍💻 About Me
 
-## Technical Stack 🛠️
+Hi, I’m **Victor Delamonica** — a mobile developer passionate about creating beautiful and functional applications that make a difference.
 
-- **Flutter App Development**: Leveraging the power of Google's UI toolkit, I build beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. 🌐
-- **iOS App Development**: Crafting sleek and user-friendly applications tailored for the iOS ecosystem (SwiftUI). 🍏
-- **Kotlin App Development**: Utilizing the modern programming language to develop Android apps with less code and greater functionality. 🤖
+I specialize in:
 
-## Get in Touch 📬
+- 📱 **Flutter**
+- 🔥 **Firebase**
+- 🎨 **Figma**
 
-Ready to bring your mobile app idea to life? Contact me to discuss your project and see how MoniKode can make it a reality. 💡🤝
+This portfolio is part of the [**Monikode**](https://github.com/monikode) organization, where I maintain and showcase my professional and collaborative projects.
+
+---
+
+## 🧩 Projects Highlighted
+
+| App           | Description                                 | Tech Stack |
+|---------------|---------------------------------------------|------------|
+| **Buurtwerf** | A greenup platform to support eco-initiatives | Flutter + Firebase + Figma|
+| **FestPocket**| Event and ticket management app              | Flutter + Figma |
+| **La Passerelle** | Social support and help platform          | Flutter + Firebase + Figma|
+
+> Each project includes: detailed info, tech stack, screenshots, and store links.
