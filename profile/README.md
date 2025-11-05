@@ -31,6 +31,6 @@ This portfolio is part of the [**Monikode**](https://github.com/Mon1Kode) organi
 | **FiPhone**       | FitPhone helps you reduce phone addiction     | Flutter + Firebase + Figma | [FitPhone](https://www.monikode.com/projects/fitphone) |
 | **Buurtwerf**     | A greenup platform to support eco-initiatives | Flutter + Firebase + Figma | [Buurtwerf](https://www.monikode.com/projects/buurtwerf)        |
 | **FestPocket**    | Event and ticket management app               | Flutter + Figma            | [FestPocket](https://www.monikode.com/projects/festpocket)      |
-| **La Passerelle** | Social support and help platform              | Flutter + Firebase + Figma | [La Passerelle](https://www.monikode.com/projects/lapasserelle) |
+| **L'Alternative** | Social support and help platform              | Flutter + Firebase + Figma | [L'Alternative](https://www.monikode.com/projects/lalternatve) |
 
 > Each project includes: detailed info, tech stack, screenshots, and store links.
